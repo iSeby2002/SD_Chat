@@ -19,7 +19,8 @@ import org.springframework.web.socket.config.annotation.WebSocketMessageBrokerCo
         "http://localhost:8080",
         "http://localhost:8081",
         "http://localhost:8082",
-        "http://localhost:8083"})
+        "http://localhost:8083",
+        "https://heroic-boba-6ce237.netlify.app"})
 public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
 
     @Override

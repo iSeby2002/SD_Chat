@@ -24,7 +24,8 @@ import java.util.Map;
         "http://localhost:8080",
         "http://localhost:8081",
         "http://localhost:8082",
-        "http://localhost:8083"})
+        "http://localhost:8083",
+        "https://heroic-boba-6ce237.netlify.app"})
 @RequestMapping("/chat")
 public class ChatController {
 
